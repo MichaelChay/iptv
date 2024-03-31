@@ -1,0 +1,222 @@
+#EXTM3U
+# 8TV
+
+# convert all .m4s to .m3u8
+# 0=600000=480x270   1=849984=640x360   2=2000000=960x540   3=3000000=1280x720   4=4800000=2440x1080   5=audio_0=64000
+# 775000-704000      1066000-969000     2407000-2188000     3573000-3248000      5000000-4600000
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-64",NAME="audio_0",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000.m3u8"
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425827.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425828.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425829.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425830.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425831.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425832.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425833.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425834.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425835.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425836.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425837.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425838.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425839.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425840.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425841.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425842.m3u8
+#EXTINF:1.92, no desc
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-audio_0=96000-891425843.m3u8
+
+#EXT-X-MAP:URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000,CLOSED-CAPTIONS=NONE,AUDIO="audio-aacl-64"
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425827.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425828.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425829.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425830.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425831.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425832.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425833.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425834.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425835.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425836.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425837.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425838.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425839.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425840.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425841.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425842.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775000,AVERAGE-BANDWIDTH=704000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=600000-891425843.m3u8
+
+#EXT-X-MAP:URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000,CLOSED-CAPTIONS=NONE,AUDIO="audio-aacl-64"
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425827.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425828.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425829.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425830.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425831.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425832.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425833.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425834.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425835.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425836.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425837.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425838.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425839.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425840.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425841.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425842.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1066000,AVERAGE-BANDWIDTH=969000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=849984-891425843.m3u8
+
+#EXT-X-MAP:URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000,CLOSED-CAPTIONS=NONE,AUDIO="audio-aacl-64"
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425828.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425829.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425830.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425831.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425832.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425833.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425834.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425835.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425836.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425837.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425838.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425839.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425840.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425841.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425842.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425843.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2407000,AVERAGE-BANDWIDTH=2188000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=2000000-891425844.m3u8
+
+#EXT-X-MAP:URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000,CLOSED-CAPTIONS=NONE,AUDIO="audio-aacl-64"
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425827.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425828.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425829.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425830.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425831.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425832.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425833.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425834.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425835.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425836.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425837.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425838.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425839.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425840.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425841.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425842.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3573000,AVERAGE-BANDWIDTH=3248000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=3000000-891425843.m3u8
+
+#EXT-X-MAP:URI="https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000,CLOSED-CAPTIONS=NONE,AUDIO="audio-aacl-64"
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425827.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425828.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425829.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425830.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425831.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425832.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425833.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425834.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425835.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425836.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425837.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425838.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425839.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425840.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425841.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425842.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=4600000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/cmaf-video=4800000-891425843.m3u8

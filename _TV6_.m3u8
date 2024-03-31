@@ -1,0 +1,13 @@
+#EXTM3U
+# TV6
+
+# convert all .m4s to .m3u8
+# 0=600000=480x270   1=849984=640x360   2=2000000=960x540   3=3000000=1280x720   4=4800000=2440x1080   5=audio_0=64000
+# 775000-704000      1066000-969000     2407000-2188000     3573000-3248000      5000000-4600000
+
+#EXTINF:-1 tvg-id="TV6 480" tvg-name="TV6 480",TV6 480
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-id="TV6 640" tvg-name="TV6 640",TV6 640
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b796000_slENG.m3u8?id=6
+#EXTINF:-1 tvg-id="TV6 960" tvg-name="TV6 960",TV6 960
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
