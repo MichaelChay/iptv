@@ -1,0 +1,81 @@
+﻿# EXTM3U
+# 马来西亚-台湾新聞直播
+
+# convert all .m4s to .m3u8
+# 0=600000=480x270   1=849984=640x360   2=2000000=960x540   3=3000000=1280x720   4=4800000=2440x1080   5=audio_0=64000
+# 775000-704000      1066000-969000     2407000-2188000     3573000-3248000      5000000-4600000
+
+# ------------------------ TW 台湾新闻 ------------------------
+#EXTINF:-1 tvg-id="中天新聞 52" tvg-name="中天新聞 52" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/cti.png" group-title="台湾新闻",中天新聞 52
+https://youtu.be/oIgbl7t0S_w
+#EXTINF:-1 tvg-id="TVBS NEWS新聞 55" tvg-name="TVBS NEWS新聞 55" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/tvbs-1.png" group-title="台湾新闻",TVBS NEWS新聞 55
+https://youtu.be/2mCSYvcfhtc
+#EXTINF:-1 tvg-id="TVBS NEWS新聞 56" tvg-name="TVBS NEWS新聞 56" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/tvbs.PNG" group-title="台湾新闻",TVBS NEWS新聞 56
+https://youtu.be/m_dhMSvUCIc
+#EXTINF:-1 tvg-id="三立新聞 54" tvg-name="三立新聞 54" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/set_news.PNG" group-title="台湾新闻",三立新聞 54
+https://youtu.be/FoBfXvlOR6I
+#EXTINF:-1 tvg-id="三立iNEWS 新聞 48" tvg-name="三立iNEWS 新聞 48" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/set_inews.PNG" group-title="台湾新闻",三立iNEWS 新聞 48
+https://youtu.be/CKjSm5ZeehE
+#EXTINF:-1 tvg-id="EBC 東森新聞 51" tvg-name="EBC 東森新聞 51" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/ebc.PNG" group-title="台湾新闻",EBC 東森新聞 51
+https://youtu.be/2dfAzcDf8Zg
+#EXTINF:-1 tvg-id="EBC 東森財經新聞 57" tvg-name="EBC 東森財經新聞 57" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/ebc_finance.PNG" group-title="台湾新闻",EBC 東森財經新聞 57
+https://youtu.be/WHEPzbFA3hw
+#EXTINF:-1 tvg-id="寰宇新聞 24" tvg-name="寰宇新聞 24" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/GlobalNewsTV.PNG" group-title="台湾新闻",寰宇新聞 24
+https://youtu.be/w87VGpgd90U
+#EXTINF:-1 tvg-id="公視新聞 PTS News" tvg-name="公視新聞 PTS News" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/pts.PNG" group-title="台湾新闻",公視新聞 PTS News
+https://youtu.be/quwqlazU-c8
+#EXTINF:-1 tvg-id="華視新聞 52" tvg-name="華視新聞 52" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/cts_1.PNG" group-title="台湾新闻",華視新聞 52
+https://youtu.be/wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/ttv.PNG" group-title="台湾新闻",台視新聞
+https://youtu.be/xL0ch83RAK8
+#EXTINF:-1 tvg-id="民視新聞 FTV" tvg-name="民視新聞 FTV" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/ftv.PNG" group-title="台湾新闻",民視新聞 FTV
+https://youtu.be/ylYJSBUgaMA
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/cts.PNG" group-title="台湾新闻",中視新聞
+https://youtu.be/TCnaIE_SAtM
+#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/mnews_1.PNG" group-title="台湾新闻",鏡新聞
+https://youtu.be/5n0y6b0Q25o
+#EXTINF:-1 tvg-id="新唐人亞太電視台" tvg-name="新唐人亞太電視台" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/NTDAPTV.PNG" group-title="台湾新闻",新唐人亞太電視台
+https://youtu.be/WIhgU_mc05A
+#EXTINF:-1 tvg-id="AI主播_倪珍" tvg-name="AI主播_倪珍" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/AI主播_倪珍.png" group-title="台湾新闻",AI主播_倪珍
+https://youtu.be/m4q2I8rz5TQ
+
+#EXTINF:-1 tvg-id="大陸尋奇" tvg-name="大陸尋奇" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/cts_2.png" group-title="台湾新闻",大陸尋奇
+https://youtu.be/fl1iFkAWcVU
+
+#EXTINF:-1 tvg-id="大愛一臺" tvg-name="大愛一臺" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/da_ai_1.png" group-title="台湾新闻",大愛一臺
+https://youtu.be/MIqUplvSRWA
+#EXTINF:-1 tvg-id="大愛二臺" tvg-name="大愛二臺" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/tw/da_ai_2.jpg" group-title="台湾新闻",大愛二臺
+https://youtu.be/DTNkEm6jaqQ
+
+
+
+# ------------------------ MY ------------------------
+#EXTINF:-1 tvg-id=" TV1" tvg-name=" TV1" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/TV1.png" group-title="马来西亚",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:-1 tvg-id=" TV2" tvg-name=" TV2" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/TV2.png" group-title="马来西亚",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:-1 tvg-id=" TV3" tvg-name=" TV3" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/TV3.png" group-title="马来西亚",TV3
+https://raw.githubusercontent.com/MichaelChay/iptv/main/_TV3_.m3u8
+#EXTINF:-1 tvg-id=" TV6" tvg-name=" TV6" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/TV6.png" group-title="马来西亚",TV6
+https://raw.githubusercontent.com/MichaelChay/iptv/main/_TV6_.m3u8
+#EXTINF:-1 tvg-id=" 8TV" tvg-name=" 8TV" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/8TV.png" group-title="马来西亚",8TV
+https://raw.githubusercontent.com/MichaelChay/iptv/main/_8TV_.m3u8
+#EXTINF:-1 tvg-id=" 9TV" tvg-name=" 9TV" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/9TV.png" group-title="马来西亚",9TV
+https://raw.githubusercontent.com/MichaelChay/iptv/main/_TV9_.m3u8
+#EXTINF:-1 tvg-id=" DidikTV" tvg-name=" DidikTV" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/didikTV.png" group-title="马来西亚",DidikTV
+https://raw.githubusercontent.com/MichaelChay/iptv/main/_DidikTV_.m3u8
+#EXTINF:-1 tvg-id=" Bernama" tvg-name=" Bernama" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/bernama.png" group-title="马来西亚",Bernama
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 tvg-id=" OKEY" tvg-name=" OKEY" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/okey.png" group-title="马来西亚",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:-1 tvg-id=" Berita RTM" tvg-name=" Berita RTM" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/berita_rtm.png" group-title="马来西亚",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:-1 tvg-id=" Sukan RTM" tvg-name=" Sukan RTM" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/sukan_rtm.jpg" group-title="马来西亚",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
+#EXTINF:-1 tvg-id=" DEWAN NEGERI" tvg-name=" DEWAN NEGERI" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/rakyat.png" group-title="马来西亚",DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
+#EXTINF:-1 tvg-id=" DEWAN PARLIMEN" tvg-name=" DEWAN PARLIMEN" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/negara.png" group-title="马来西亚",DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
+
+
