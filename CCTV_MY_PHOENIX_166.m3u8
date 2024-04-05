@@ -63,6 +63,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF:-1 tvg-id=" Bernama" tvg-name=" Bernama" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/bernama.png" group-title="马来西亚",Bernama
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:-1 tvg-group="Radio" tvg-id="ASTRO AWANI" tvg-name="ASTRO AWANI" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/awani.png",ASTRO AWANI
+https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_1.m3u8
 
 #EXTINF:-1 tvg-id=" OKEY" tvg-name=" OKEY" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/my/okey.png" group-title="马来西亚",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
