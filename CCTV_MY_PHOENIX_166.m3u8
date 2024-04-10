@@ -1,37 +1,52 @@
 ﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 # ------------------------ 央视 ------------------------
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://121.19.134.48:808/tsfile/live/0001_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0001_1.m3u8
+http://182.122.73.120:8089/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://121.19.134.48:808/tsfile/live/0002_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0002_1.m3u8
+http://182.122.73.120:8089/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://121.19.134.48:808/tsfile/live/0003_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0003_1.m3u8
+http://182.122.73.120:8089/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://121.19.134.48:808/tsfile/live/0004_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0004_1.m3u8
+http://182.122.73.120:8089/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://121.19.134.48:808/tsfile/live/0005_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0005_1.m3u8
+http://182.122.73.120:8089/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://121.19.134.48:808/tsfile/live/00018_1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://121.19.134.48:808/tsfile/live/0006_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0006_1.m3u8
+http://182.122.73.120:8089/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://121.19.134.48:808/tsfile/live/0007_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0007_1.m3u8
+http://182.122.73.120:8089/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://121.19.134.48:808/tsfile/live/0008_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0008_1.m3u8
+http://182.122.73.120:8089/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://121.19.134.48:808/tsfile/live/0009_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0009_1.m3u8
+http://182.122.73.120:8089/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://121.19.134.48:808/tsfile/live/0010_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0010_1.m3u8
+http://182.122.73.120:8089/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://121.19.134.48:808/tsfile/live/0011_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0011_1.m3u8
+http://182.122.73.120:8089/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://121.19.134.48:808/tsfile/live/0012_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0012_1.m3u8
+http://182.122.73.120:8089/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://121.19.134.48:808/tsfile/live/0013_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0013_1.m3u8
+http://182.122.73.120:8089/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://121.19.134.48:808/tsfile/live/0014_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0014_1.m3u8
+http://182.122.73.120:8089/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://121.19.134.48:808/tsfile/live/0015_1.m3u8
+#http://121.19.134.48:808/tsfile/live/0015_1.m3u8
+http://182.122.73.120:8089/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://121.19.134.48:808/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
@@ -78,53 +93,68 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
 
+
 # ------------------------ 卫视 ------------------------
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",河南卫视
+http://182.122.73.120:8089/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",都市剧场
+http://182.122.73.120:8089/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",民生频道
+http://182.122.73.120:8089/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="法治频道" tvg-name="法治频道" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",法治频道
+http://182.122.73.120:8089/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",电视剧频道
+http://182.122.73.120:8089/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="新闻频道" tvg-name="新闻频道" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",新闻频道
+http://182.122.73.120:8089/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",公共频道
+http://182.122.73.120:8089/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+http://182.122.73.120:8089/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://182.122.73.120:8089/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://182.122.73.120:8089/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/北京卫视.png" group-title="卫视频道",北京卫视
+http://182.122.73.120:8089/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+http://182.122.73.120:8089/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/天津卫视.png" group-title="卫视频道",天津卫视
-http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
+http://182.122.73.120:8089/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
+http://182.122.73.120:8089/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://182.122.73.120:8089/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://182.122.73.120:8089/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/江西卫视.png" group-title="卫视频道",江西卫视
+http://182.122.73.120:8089/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河北卫视.png" group-title="卫视频道",河北卫视
+http://182.122.73.120:8089/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/四川卫视.png" group-title="卫视频道",四川卫视
+http://182.122.73.120:8089/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://182.122.73.120:8089/hls/42/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/云南卫视.png" group-title="卫视频道",云南卫视
+http://182.122.73.120:8089/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://182.122.73.120:8089/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://182.122.73.120:8089/hls/45/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/东南卫视.png" group-title="卫视频道",东南卫视
+http://182.122.73.120:8089/hls/46/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/广东卫视.png" group-title="卫视频道",广东卫视
-http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+http://182.122.73.120:8089/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河北卫视.png" group-title="卫视频道",河北卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:7000:20::15]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/山西卫视.png" group-title="卫视频道",山西卫视
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/东南卫视.png" group-title="卫视频道",东南卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:7000:20::18]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -135,8 +165,6 @@ http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/青海卫视.png" group-title="卫视频道",青海卫视
@@ -177,8 +205,6 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/乐游.png" group-title="卫视频道",乐游频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/都市剧场.png" group-title="卫视频道",都市剧场
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/MichaelChay/icon/main/cctv/北京纪实科教.png" group-title="卫视频道",纪实科教
